@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.revolve" version="8.0.0" name="Revolve Revived" provider-name="ransomed, mKo, relyter, Malthus, Thirdy">
+<addon id="skin.revolve.revived" version="8.0.0" name="Revolve Revived" provider-name="ransomed, mKo, relyter, Malthus, Thirdy">
     <requires>
-        <import addon="xbmc.gui" version="5.15.0" />
+        <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.revolve.service" version="2.0.1" />
         <import addon="script.favourites" version="8.1.3" />
     </requires>
